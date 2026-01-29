@@ -1,0 +1,7 @@
+product_name,category,price,supplier_name,supplier_location,min_order_qty,rating,scraped_at,source_url
+product_name,category,,supplier_name,supplier_location,min_order_qty,rating,scraped_at,source_url
+Hydraulic Press Machine,Industrial Machinery,120000.0,ABC Machines,Delhi,1 Unit,4.5,2026-01-29,https://dir.indiamart.com/impcat/industrial-machinery.html
+CNC Milling Machine,Industrial Machinery,350000.0,Precision Tools,Mumbai,1 Unit,4.2,2026-01-29,https://dir.indiamart.com/impcat/industrial-machinery.html
+Industrial Lathe Machine,Industrial Machinery,220000.0,LatheWorks,Ahmedabad,1 Unit,4.0,2026-01-29,https://dir.indiamart.com/impcat/industrial-machinery.html
+Air Compressor,Industrial Machinery,45000.0,AirTech Solutions,Pune,5 Units,4.3,2026-01-29,https://dir.indiamart.com/impcat/industrial-machinery.html
+Packaging Machine,Industrial Machinery,98000.0,PackPro Systems,Noida,1 Unit,4.1,2026-01-29,https://dir.indiamart.com/impcat/industrial-machinery.html
