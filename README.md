@@ -1,4 +1,4 @@
-# Slooze Data Engineering Take-Home Challenge
+# Slooze Data Engineering 
 
 ## Overview
 This project demonstrates an end-to-end data engineering workflow including
@@ -35,4 +35,5 @@ was used for ETL and EDA.
 ```bash
 pip install -r requirements.txt
 python crawler/main.py
+
 jupyter notebook eda/analysis.ipynb
